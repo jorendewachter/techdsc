@@ -406,25 +406,15 @@ Artificial Intelligence and labor with the following mandate:
 
 ### 4.1. What are the issues?
 
-71) Intellectual Property (IP) is a system of government-created and enforced monopolies on certain aspects of
-creativity and innovation. They include e.g. patents, copyright, trademarks, trade secrets, database rights, and
-other similar rights.
+71) Intellectual Property (IP) is a system of government-created and enforced exclusive rights (legally created monopolies) on certain aspects of creativity and innovation. They include e.g. patents, copyright, trademarks, trade secrets, database rights, and other similar rights.
 
-72) The typical justification for IP is that it recognizes and protects the creator or innovator, by providing them a
-monopoly that is limited in time and scope, so they can benefit from the ability to recover their investment.
-After a time, the monopoly lapses, and the invention or creation becomes part of the public domain - i.e. the
-classical freedom of enterprise, where everything that is not forbidden is allowed, regains its normal place in
-the market. A second justification is the aspect of recognition of creators and inventors, and their
-contribution to society.
+72) There are two standard justifications for IP. Recognition and reward. The reward justification for IP consists of the argument that it protects the creator or innovator, by providing them a monopoly that is limited in time and scope, so they can benefit from the ability to recover their investment. After a time, the monopoly lapses, and the invention or creation becomes part of the public domain - i.e. the classical freedom of enterprise, where everything that is not forbidden is allowed, regains its normal place in the market. The recognition justification consists of the argument that IP recognizes creators and inventors, and their contribution to society.
 
 73) There are a number of problems with IP today.
 
 74) First, there is the continued expansion of the monopoly rights. Copyrights, originally 18 years long, now last
 at least until 70 years after the death of the last contributing author (and for Disney a bit longer). Patents
-used to be for narrow, technical applications, but now apply to methods (i.e. ideas), protocols, discoveries (e.g.
-in the field of biology), software, and many other aspects that used to be non-patentable. In addition, the
-standards for "novelty" are sometimes laughable. To give a classic example, in Australia, after a patent law
-reform, someone managed to obtain a patent on the novel invention of the "wheel". Furthermore, new IP
+used to be for narrow, technical applications (“downstream” aspects of technology), but now apply ever more to “upstream” aspects of technology methods (i.e. ideas), protocols, discoveries (e.g. in the field of biology), software, and many other aspects that used to be non-patentable. In addition, the standards for "novelty" are sometimes laughable. To give a classic example, in Australia, after a patent law reform, someone managed to obtain a patent on the novel invention of the "wheel". Furthermore, new IP
 rights are invented on a continuous basis: examples are database rights, trade secrets, performers rights and
 the new secondary copyright for publishers in the draft Copyright Directive.
 
@@ -439,10 +429,9 @@ creators/innovators typically get little to no benefit from or recognition for t
 developing new drugs, we see that the R&D budget of large pharmaceutical companies is a fraction of their
 marketing budgets, and most of their R&D budget is spent on research to "me-too" patents: patents on
 slightly different versions of drugs that already exist, in order to artificially extent their monopoly position
-(and pricing). It is a classical example of socializing the cost and risk of developing new drugs, and privatizing
+(and pricing). It is a classical example of socializing the cost and risk of developing new drugs, while privatizing
 the benefits. The same is true for other innovations and research at universities and other research centres
-funded with public money. Far too often, the results of such publicly funded research is privatized through the
-creation and transfer of IP rights to privately held spin-offs.
+funded with public money. Far too often, the results of such publicly funded research is privatized, often in opaque and non-transparent ways,  through the creation and transfer of IP rights to privately held spin-offs.
 
 78) Third, IP rights have a number of negative effects on the economy and society. The rent they extract
 generates huge transfers of money to a limited number of corporate monopoly holders and their
@@ -450,7 +439,7 @@ shareholders. This leads to a very regressive income distribution and significan
 People who work pay rent to people who hold government-created monopolies on the proceeds of that work
 and get rent as unearned income purely as unproductive rights holders.
 
-79) IP rights, today, also significantly slow down innovation. They allow large established businesses to use evergrowing monopoly rights to block access to their market to newcomers or competitors. Initiatives like the draft Copyright Directive allow copyright to be used as a way to censor content, [reducing ever more the
+79) IP rights, today, seem to significantly slow down innovation. They allow large established businesses to use evergrowing monopoly rights to block access to their market to newcomers or competitors. Initiatives like the draft Copyright Directive allow copyright to be used as a way to censor content, [reducing ever more the
 freedoms](https://www.opendemocracy.net/can-europe-make-it/renata-avila-joren-de-wachter-christoph-schneider/eu-is-killing-our-democratic-sp) that the Internet was supposed to give us.
 
 80) In the discussion on the draft EU Copyright Directive, the monopoly holders of content (the entertainment
@@ -470,7 +459,7 @@ treatment, allowing large multinationals to shift their profits, and benefit fro
 default, available under systems like the most permissive creative commons licenses.
 
 84) Any software code whose development is funded by public money should be made available under Free and
-Open Software licenses.
+Open Software licenses. (note : DiEM25 does not have any a priori preference for any category of licenses. We are aware that there is a whole ecosystem, and, depending on context and the area, the choice of the appropriate licence will have to be made. We do not believe in a "one size fits all" approach in this context.)
 
 85) This has several benefits: it provides for independence from non-EU based suppliers, it increases the security
 and stability of the software and it breaks the de fact monopoly of many technical platform providers.
@@ -484,7 +473,7 @@ be that any spin-off created to monetize the result of publicly funded research,
 
 87) Introduce a fundamental "Right to Repair": the buyer of a product or service has the right to repair any
 aspect thereof (or have it repaired for them) and IP rights cannot be used as a means to block such Right to
-Repair.
+Repair. The Right to Repair includes the right to alter the technical standard in which something is made or captured. This means that if you buy something in one technical standard, you have the automatic right to convert it into another technical standard.
 
 88) Introduce the principle of Open Standards. Technical standards must be documented so that interoperability
 is ensured, and they may not be subject to IP monopolies.
@@ -509,9 +498,7 @@ as DNA or RNA must be classified as "Open Content" languages, and not subject to
 
 #### 4.2.3. Break the cycle of hoarding monopoly rights by distributors and marketers
 
-95) Limit the enforcement of IP rights to the actual inventor/creator, not their assignees/licencees. This will
-increase their recognition, and ensure that they actually benefit from the IP monopoly that government
-creates for them.
+95) Limit the enforcement of IP rights so that it benefits the actual inventor/creator, not their assignees/licencees when they do not contribute economic value. This will increase the inventor/creator's recognition, and ensure that they actually benefit from the IP monopoly that government creates for them.
 
 96) Abolish any tax incentives to create, transfer or collect IP rights.
 
@@ -538,6 +525,8 @@ created, with broad applications, and based on the fundamental freedom of speech
 related thereto.
 
 103) Public funding of open source software can be envisaged.
+
+104) Introduce a general principle that any IP that belongs to a legal entity that goes bankrupt, is liquidated or otherwise ceases to function, is released into the public domain. Equally, any IP ceases to be valid on the death of the inventor/creator.
 
 ### 4.3. Education and Technology
 
@@ -581,6 +570,8 @@ STEM for every student), but also explaining the relationship between technology
 out alternative systems such as the commons and other economic models of technological development and
 management.
 
+114) It is clear, in this respect, that our education systems should reflect, and educate, much more on the crucial role of technology in society, and the concept of Technological Sovereignty. Approaches such as MOOCs (Massive Open Online Courses) can play a crucial role in this respect, providing a publicly available repository of knowledge and understanding.
+
 ##### 4.3.2.2. From open standards to technology that can be understood
 
 114) The principles of open standards and the Right to Repair lead us to a possible "right to understand". It
@@ -588,7 +579,7 @@ should be investigated whether it can be made mandatory for owners of technology
 information to the public so that the general principles of how their technology works can be understood by
 people with sufficient training in the relevant area.
 
-115) Of course, there would be justified concerns around safety and security, but, as we know from open source
+115) Of course, there would be justified concerns around safety and security, but, as we know from the real life experience of open source
 software, it is typically proprietary (and secret) technology that presents the highest risks to security,
 vulnerability to hacking and abuse of its flaws.
 
@@ -637,119 +628,59 @@ democratic system.
 124) DiEM proposes that we start taking the necessary steps to enable this essential correction of our current
 technocratic, black-box approach to technology.
 
-## 5. Democratic decisions on technology and a collaborative economy
-
-125) Every technological development is the result of choices. Choices made by governments, researchers,
-investors, consumers, manufacturers, distributors, users and many others. No technology is god-given or given
-by the "invisible hand of the market", and no technology is neutral: it is is always value-laden. The way we
-fund, adopt, use and regulate technology, or not, reflects society's choice of its values and priorities. However,
-decisions in research and innovation currently reflect the worldviews and interests of technocratic
-researchers, policy-makers and above all venture capitalists that want to take research "to the market", i.e.
-want to maximise their profits.
-
-126) DiEM believes that we need to democratise research and the selection of priorities and strategies for
-research and innovation. This entails democratising funding decisions for research in politics, science and
-industry. Democratising decision-making in technology is necessarily an effort to democratise the science
-system and the economy. We must consider how these choices are rooted in values, and openly discuss and
-resolve them in a democratic way. The agenda of the technology and values debate should be open and
-inclusive, and not set by research and the technology industry itself. To every technological option there are
-always alternatives - including non-technological forms of change and problem solving. We must establish the
-necessary democratic instruments and institutions capable of addressing the complexities of inclusive 21st
-century technologies. [[P11](https://github.com/kmccurdy/techdsc/wiki/P11-Principles-for-technology-policy-and-framing-the-politics-of-technology)]
-
-### 5.1. Democratising technocratic decision-making in research and innovation
-
-127) DiEM proposes using mission-oriented public funding to address the crises of the European economy. As
-part of its European Green New Deal, DiEM proposes funding Green Investment‐led Recovery and setting up a
-new agency for managing and funding Europe's Green Transition and Green Energy Union. More such
-instruments need to be devised that make use of the risk-taking, mission-oriented funding powers of public
-institutions. But we need to democratise these institutions as well.
-
-128) The European Union is already a major funder and decision-making body that shapes the research and
-innovations that affect our lives. In the ongoing program "Horizon 2020" the EU has been spending 80 billion
-&#8364; to fund research and innovation in the years 2014 to 2020. The following program "Horizon Europe" entails
-100 billion &#8364; for research and innovation funding in the years 2021 to 2027. These are vast sums of money.
-While the programs are proposed by the European Commission and debated in the European Council and the
-European Parliament, the individual funding decisions are taken in a technocratic manner by Brussels
-bureaucrats, lobbyists and scientific experts. We have to put European citizens in charge: research and
-innovation need to become accountable to citizens and their needs and expectations.
 
 
-#### 5.1.1. Proposal: Participatory budgeting platform for research and innovation
 
-129) This digital platform will be a 21st century institution that democratises the funding of research and
-innovation, giving citizens a stronger say through participatory budgeting on a transnational level.
+## Chapter 5. Democratising innovation and the economy 
 
-130) **Democratise funding: citizens crowd funding**
 
-131) The platform needs to contain a crowd funding system that allows European citizens to allocate public
-money, e.g. from the EU's "Horizon Europe", through their decisions on the platform. Every EU citizen that
-uses the platform has the same amount of public money to allocate to research or innovation projects. It is
-imperative that research and innovation are not only focused on "high-tech" on this platform but that
-different forms of research and innovation, including technological, social and cultural innovation, are
-addressed. The projects apply with their proposals and a sum of money that would allow them to start the
-work. As in crowdfunding, if enough citizens give money to a proposed project it is successful and gets money
-from the fund.
+#) Every technological development is the result of choices. Choices made by governments, researchers, investors, consumers, manufacturers, distributors, users and many others. No technology is god-given or given by the "invisible hand of the market”, and no technology is neutral: it is always value-laden. The way we fund, adopt, use and regulate technology, or not, reflects society’s choice of its values and priorities. However, decisions in research and innovation currently reflect the worldviews and interests of technocratic researchers, policy-makers and above all venture capitalists that want to take research “to the market”, i.e. want to maximise their profits. 
 
-132) A significant proportion of public funds for research and innovation needs to be put into this platform to
-give citizens a voice. One third of the overall EU budget for research and innovation or of new public funding
-instruments, i.e. around 30 billion &#8364;, seems reasonable. The other two thirds could be allocated as usual
-through the science system or through existing EU institutions.
+#) To every technological option there are always alternatives – including non-technological forms of change and problem solving. We must establish the necessary democratic instruments and institutions capable of addressing the complexities of inclusive 21st century technologies. How do we define the problems that technologies should solve? How do we govern the risks and ambivalences of technologies? How do we make sure that their benefits are shared amongst the many? 
 
-133) **Democratise agenda setting: citizens' needs crowdsourcing**
+#) An agenda to democratise technologies must address the fundamental structures that shape and govern technologies. To democratise Europe we need to also transform the societal, political and economic systems that innovate, shape, regulate and make use of technologies. How can these become more democratic and inclusive? How can we democratise the innovation processes that shape decisions about our future? 
 
-134) The platform should also enable citizens to identify problems to be addressed through research and
-innovation. Problems would be freely submitted, then democratically ranked on the platform. The top ranking
-problems are then turned into pillars for the funding side of the platform such that researchers and
-innovators can apply with proposals targeting specific pillars. Localised forms of problem sourcing and money
-allocation could be introduced in the platform as well, such that participatory agenda setting and budgeting
-on a national, regional or municipal level could take place.
+### 5.1 Democratise Innovation Funding
 
-135) **Ensure Participation**
+#) DiEM25’s European Green New Deal proposes a Green Investment‐led Recovery and setting up a new agency for managing and funding Europe’s Green Transition and Green Energy Union. These measures make use of the risk-taking, mission-oriented funding powers of public institutions and put idle financial wealth to socially useful purpose by boosting a transition into a greener economy that works for the many. 
 
-136) If the platform is simply open to all citizens, well-educated and higher-earning people would probably
-dominate its usage, as seen in most forms of citizen participation. One way to counter this could be forming a
-representative decision-making body through drawing several thousand citizens from Europe by lot - and by
-paying them a sum of money as compensation for participating. Furthermore, the platform needs to have its
-content in all languages of the European Union. [[P10](https://github.com/kmccurdy/techdsc/wiki/P10-National-and-Regional-Online-Voting-Platform), [P14](https://github.com/kmccurdy/techdsc/wiki/P14-Proposal-for-a-%25E2%2580%259ECitizen%25E2%2580%2599s-Research-and-Innovation-platform%25E2%2580%259C)]
+#) The European Union is already a major funder and decision-making body that shapes the research and innovations that affect our lives. In the ongoing program “Horizon 2020” the EU has been spending 80 billion € to fund research and innovation in the years 2014 to 2020. The following program “Horizon Europe” entails 100 billion € for research and innovation funding in the years 2021 to 2027. 
 
-### 5.2. Foster a collaborative and democratic economy
+#) While the programs are proposed by the European Commission and debated in the European Council and the European Parliament, the individual funding decisions are taken in a technocratic manner by Brussels bureaucrats, lobbyists and scientific experts. It gets even worse when we take the investment decisions by venture capitalists into account. They have a vast grip over the start-ups and entrepreneurs that make creative use of new technology and they are a narrow group in society, shaping investments based on the narrow pursuit of maximum profit. 
 
-137) The problem of decision-making in research and innovation extends beyond funding agencies and
-scientists. Most of the decisions on innovations are taken within the economic sphere by capitalists. The Big
-Tech companies of the world are commanding the largest planned economies in history - not only their
-monopolies but also their use of digital technologies to organise their economic processes work outside of a
-market as we know it. This certainly is a grave threat to democracy and fair competition.
+#) We need to build alternative and democratic forms of funding research and innovation. Shaping the future of technologies right from the start in a democratic manner. We have to put European citizens in charge of the decisions that shape technology: research and innovation need to become accountable to citizens and their needs and expectations. 
 
-138) To democratise research and innovation we also need to find ways to democratise the economy and to
-foster more decentralised economic arrangements, collective decision-making and structures for shared
-responsibilities. In short, we need to democratise economic decision making. With the help of digital systems,
-new ways of organising businesses, innovation processes and collaboration, and collective ownership become
-possible. We need to tap into these and help more a more democratic economy and more democratic
-technologies to emerge.
+### 5.1.1 Short-term proposal: Open up the EU’s innovation funding to increase public value
 
-139) Every technology is the result of collaboration. Collaboration between developers, public institutions,
-users, researchers, citizens, businesses and more. Innovative societies foster collaborations. And they have
-public institutions and investments that foster the exchange of ideas and provide resources for the new to
-emerge - technologies depend on the public. For too long have regulations from the time of the first industrial
-revolution and power structures aided in monopolising and privatising technology. Artificial boundaries that
-block or slow down the creative sharing of technology damage society. The more value and technology are
-shared, the more they can create value in return. [[P11](https://github.com/kmccurdy/techdsc/wiki/P11-Principles-for-technology-policy-and-framing-the-politics-of-technology)]
+#) The EU’s research and innovation funding has a major deficit: It is premised on a “high-tech for growth” strategy, directly playing the melody of big industry and a “technology first, society second” symphony.
 
-140) Digital technologies can help to create new and more democratic organisational forms for economic
-activity and for governing infrastructures. Very promising ideas and developments are ongoing in the
-movement for platform cooperativism where the aim is to make workers, users and other stakeholders the
-owners of platforms that coordinate economic activities, e.g. taxi drivers owning and operating their own
-digital platform instead of working under dire conditions for Uber.
+#) This needs to change. The EU’s funding needs to be opened up to different purposes. We need to fund social and cultural innovation in concert with technological innovation. Different forms of creativity and transformation need to be combined to move into a brighter future. Furthermore, the possible group of recipients of funding needs to be enlarged. EU funding for research and innovation must be more easily attainable for civil society organisations, non-profit technology projects, cooperatives and others with a clear mission of green and social change. We need to fund purpose before profit from public money. 
 
-141) Digital technologies are already being used to coordinate and to govern economic processes. This hints at a
-big opportunity to shape economic systems in the 21st century. What if we take these technological
-capabilities and use them radically differently than their current masters: to shape economies that foster
-social justice and help to keep our production and consumption within planetary boundaries? What if with the
-technologies of an Internet of things and so-called "artificial intelligence" we could also build coordination
-mechanisms that are democratically controlled (see also 3.3.1 propossal on "labor intelligence") and move
-certain economic activities and uses of infrastructures beyond the market? How could ideas such as that of an
-"economy for the common good" be implemented in such systems? [[P2](https://github.com/kmccurdy/techdsc/wiki/P2-Input-DSC-Vienna1)]
+#) Futhermore, the returns to research and innovation funding should value their dependence on public life and public institutions, e.g. universities, and the collaboration and collective creativity that made them possible. Ten per cent of the ownership of marketised products that were innovated with EU funding should contribute to the fund for the universal basic dividend. Thus giving back to society and balancing in the returns on new technology. 
+
+## 5.1.2 Mid-term proposal: Participatory budgeting platform for research and innovation
+
+#) This digital platform will be a 21st century institution that democratises the funding of research and innovation, giving citizens and civil society a stronger say through participatory budgeting on a transnational level. It democratises the public research and innovation funding mission of the European Union.
+
+#) Democratise funding: citizens crowd funding 
+The platform needs to contain a crowd funding system that allows European citizens to allocate public money, e.g. from the EU’s “Horizon Europe”, through their decisions on the platform. The projects apply with their proposals and a sum of money that would allow them to start the work. As in crowdfunding, if enough citizens allocate public money to a proposed project it is successful and gets money from the fund. A significant proportion of public funds for research and innovation needs to be put into this platform to give citizens a voice. 
+
+#) Democratise agenda setting: citizens’ needs crowdsourcing 
+Innovation starts with problems that should be solved. Who defines the problems is a major issue in every innovation journey. In a democratic society citizens should define the problems that innovations should help to solve. Therefore, the platform should also enable citizens to identify problems to be addressed through research and innovation. Problems would be freely submitted, then democratically ranked on the platform. Researchers and innovators can then apply with proposals targeting specific problems. The mission-oriented research and innovation funding by the EU needs to be defined at its core by citizens. 
+
+## 5.2 Economic Democracy
+#) The problem of decision-making in research and innovation extends beyond funding agencies and scientists. Most of the decisions on innovations are taken within the economic sphere by capitalists. The Big Tech companies of the world are commanding the largest planned economies in history – not only their monopolies but also their use of digital technologies to organise their economic processes work outside of a market as we know it. This certainly is a grave threat to democracy and fair competition.
+
+#) To democratise research and innovation we also need to find ways to democratise the economy and to foster more decentralised economic arrangements, collective decision-making and structures for shared responsibilities. In short, we need to democratise economic decision making. DiEM25’s labour pillar addresses the need for workers participation in companies. 
+
+#) With the help of digital systems, new ways of organising businesses, innovation processes and collaboration, and collective ownership become possible. We need to tap into these and help more a more democratic economy and more democratic technologies to emerge. 
+Digital technologies can help to create new and more democratic organisational forms for economic activity and for governing infrastructures. Very promising ideas and developments are ongoing in the movement for platform cooperativism where the aim is to make workers, users and other stakeholders the owners of platforms that coordinate economic activities, e.g. taxi drivers owning and operating their own digital platform instead of working under dire conditions for a monopolistic digital platform. 
+
+#) Digital technologies are already being used to coordinate and to govern economic processes. This hints at a big opportunity to shape economic systems in the 21st century. What if we take these technological capabilities and use them radically differently than their current masters: to shape economies that foster social justice and help to keep our production and consumption within planetary boundaries? What if with the technologies of an Internet of things and so-called “artificial intelligence” we could also build coordination mechanisms that are democratically controlled (see also 3.3.1 propossal on “labor intelligence”) and move certain economic activities and uses of infrastructures beyond the market? How could ideas such as that of an “economy for the common good” be implemented in such systems?
+
+
+
+
 
 142) DiEMers we need your help: How can we use technology to shape a new and more just and sustainable
 economy? How can a cooperative and collaborative economy be supported through digital technology? Ideas,
