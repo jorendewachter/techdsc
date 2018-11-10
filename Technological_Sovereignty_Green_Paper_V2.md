@@ -12,182 +12,247 @@
 
 Authors: Kate McCurdy, Christoph Schneider, David Schwertgen, Joren De Wachter
 
-Based on contributions by DiEM members
+Based on contributions and a first round of feedback on v1 by DiEM25 members
 
 ## Please, give us your feedback:
 
-This is the first Green Paper of DiEM's pillar "Technological Sovereignty" within our effort to collaboratively develop the Progressive Agenda for Europe. As coordinators of this pillar we want to make the best of use of the two feedback cycles before Green Paper No. 3 which will be voted upon by DiEM members. We have chosen to leave some issues open and insert questions to DiEM's membership to invite for thorough feedback and to strengthen the dialogue within our movement on the democratisation of technology as an element of the democratisation of Europe. The collaborative policy making is central to DiEM's work - let's use our collective intelligence and enhance our capabilities for collaboration.
+This is the second draft (v2)  of the Green Paper of DiEM25's pillar "Technological Sovereignty".
+
+After publishing the first draft, we received dozens elements of input, some general, some more detailed. 
+
+Based on that feedback, we now issue a second version of the Green Paper. 
+
+As with the first version, we ask you to provide feedback and comments, so we can use the collective intelligence of the DiEM membership. 
 
 Please help us by following these guidelines for giving feedback:
 
 - Concrete and constructive feedback helps us the most. Please ALWAYS refer to the number(s) of the paragraph(s) that you give feedback on, otherwise your comment may get lost.
 - To foster the dialogue within our movement, please use the forum to give your feedback: https://discuss.diem25.org/t/green-paper-no-1-feedback-forum/14821
 - If you do not want to use the forum you can also send us an email to techpillar@diem25.org
-- Feedback that arrives until 4th September 2018 has the best chance of helping us - but we will look in the forum and the email account after that date. 
+- Feedback that arrives before 31 December 2018 has the best chance of helping us - but we will look in the forum and the email account after that date. 
 
 
+The Paper consists of four parts : 
+- an introduction, laying out some general points, and introducint the most important policy points
+- an executive summary, 
+- the main body of the paper, detailing what we believe are the issues, and how to deal with them on a short to long term basis
+- the general principles underpinning the DiEM25 approach
 
-# 1. Introduction: Technological Sovereignty - We decide over our technologies 
 
-1) Technological systems and the ways in which they are designed and governed are powerful ways to shape society. Technology has become a central form of social power and we have to democratise this power if we want to have collective control over our future reality. Technological changes have been accelerating and the private sector has an increasing influence over the directions of these changes. However, it is becoming ever more obvious that the concentration of capital-driven technological change is potentially harmful to the flourishing of people and a healthy democracy. 
 
-2) Digitalisation, energy and mobility systems, housing, the future of work, of our health, of freedom, of equality, of our public sphere, of cities, of the environment and of states and democracy - the shape and quality of all of this is entwined with technological changes. Combining the democratisation of societies with the democratisation of technologies is therefore of utmost importance. Democratising technology means to shape and govern it democratically and for the common good. It means bringing technological power under democratic control and to use technological advances to benefit the many and to help societies and people flourish in the 21st century.
 
-3) Democratising technologies can only be successful within an agenda to democratise societies. This is why DiEMincludes policies for technological sovereignty within its progressive agenda for Europe. Europe can become a beacon of hope if it unites political, social and technological progress. Especially digital technologies, however, can also help us to create systems and new institutions that update democracy to the needs and opportunities of the 21st century. Technologies have to be an integral part of the democracies of the future - as objects of democratic control and as tools to enhance our democratic powers. 
 
-4) As a strong voice for democracy, transnational politics and progressive societal change, DiEM commits to head the debate on democratising technologies. This debate needs to be extended to all domains of technological change. Digital technologies are at the core of the ongoing transformationand most of this paper addresses policies for democratic digital change.But as a progressive movement we must also advance the debate on the democratisationof technology to other technological domains. Technologies such as gene editing (e.g.CRISPR), agricultural technologies, biotechnologies, neurotechnologies, energy technologies, robotics, pharmaceuticals, space and aeronautical technologies and many more need to come in focus.In the 21st century with accelerating technological change many technologies have the potential to radically alter the relationships between humans and nature. 
+## Introduction: For democracy to be possible, technology must be democratized. 
 
-5) We need to have democratic and collective self-determination of how we as citizens want to shape these technologies, their development and their application. How do we supervise their risks? How do we make sure that their benefits are shared amongst the many? We have to get radical, i.e. go to the roots of the systems that shape and govern technologies, and find ways to democratise science, research and business to shape our societies' futures.
+###	0.1 Technology is essential 
 
-6) Technological development, however, is not a goal in itself - don't let the merchants of Silicon Valley's ideas tell you otherwise. Technology has to serve human progress and the common good. DiEM firmly supports human rights in the face of technology - the flourishing of humans, all humans, comes first, and technology second. Conceived in this way, technological development can be a formidable force for good. Technology is a key contributor to our civilization's ability to provide health, welfare, social interaction, freedom, safety and happiness. DiEMfirmly supports sound, positive and democratic technological development that benefits mankind, and rejects anti-technological thinking. 
+1) Our civilisation heavily depends on technology. Technology provides us with the possibility to feed more than 7.5 billion people, to prevent or cure sickness, to multiply social and cultural interaction and creation, to care for those in need, to learn and teach more, to provide safety and security, and to improve the quality of life and increase happiness in many ways for all.
 
-7) However, this does not mean that all technological development is good. The negative consequences of technologies must be taken into account - it is not acceptable that profits from new technologies are privatised while their risks are socialised. In the face of accelerating technological change we need to safeguard and extend our individual and collective self-determination. We don't have to accept the control that designers and owners of technological systems or even technological systems themselves have over our lives. Instead, we'll have to invent and shape the democratic processes and institutions that help us to democratise technology and innovation. 
+2) But it is only that: a possibility. Not a certainty, and, today, certainly not a reality.
 
-8) Technological sovereignty means to gain individual and collective self-determination over the choices and effects that technologies have on our lives and societies. Of course, technological sovereignty starts with individual people and their self-determination. But it doesn't end there. We have to invent ways in which organisations, municipalities, businesses, regional, national and European democratic institutions can be empowered to make self-determined choices and gain democratic control over technologies. And we have to invent new democratic institutions up to the task of governing technological change.
+3) DiEM25 is the one political movement that wants to create, shape and drive political debate and democratic process around technology, based on the concept of technological sovereignty.
 
-9) We need democratic control over the input we provide, which is used for technological ends - which aspects of our lives, which ideas, which needs and which aspirations influence technological ends? We need democratic control over the ways in which we are subjected to technology as workers, as citizens, as people in need, as politicians: How can we ensure equality and freedom in the face of growing technological influence over us? We need democratic control over the research and knowledge that powers technology - How can we find ways to publicly own and govern our collectively produced knowledge and support democratic forms of innovation that really address the pressing problems of our times?
+4) Why? Because, for DiEM25, it is clear that without the introduction of technological sovereignty, through the democratisation of technology, democracy itself is no longer possible. 
 
-## 2. Re:inventing a free, secure and decentralised internet ecosystem
+5) The examples are manifold. We see monopolistic tech platform providers with tremendous powers to shape what we see, who we hear from, or how we think, without any democratic accountability for that power. We become subject to automated decision-making, wrongly labeled “artificial intelligence”, functioning as a black box, without any transparency or accountability. We are told about killer robots, we breath new pesticides, we anticipate automation of truck driving, cooking and many other professions. All of which may cause massive disruption.
 
-10) Those who are old enough to have experienced the Internet in the late 1990ies will remember how radical it felt to have a decentralised (rhizomatic) network of interconnected computers unaffected by the hegemonic discourse of traditional media outlets and arbitrary governmental control. This Internet and its accompanying promise of a new, progressive age of unlimited and safe communication is long gone. Instead the Internet has become a medieval marketplace where everyone is keen to sacrifice safety, responsibility and sustainability for a quick dime or "like". 
+6) But there’s more. We see how the costs of technology’s development and use are socialized, but the benefits are privatized to a very small group. We see how decisions on the choice of which technological development is prioritized are kept away from transparent and public debate. 
 
-11) We think that the progressive version of the Internet doesn't need to remain a nostalgic memory. In the last 20 years technologies and concepts have been developed that'll allow to facilitate a democratic, decentralised, less-commercialised, secure, anonymous and encrypted Internet. An Internet led and inspired by 21st century social and ethical standards. 
+7) We see how neo-liberal dogma leads to the financialization of the startup entrepreneurial process, acting as a parasite on the entrepreneurial spirit while trying to convince people of the absurd notion that the purpose of innovation is to make rich investors richer still. 
 
-12) In the conceivable future the Internet as we know it will spread even further into the private and public life of every human being. A development that is commonly referred to as Internet of Things. Its underlying protocol IPv6 is able to provide 340 sextillion IP-adresses. That is an unimaginable amount of quadrillions of microcomputers, each of which could be connected to, and interact with, all the others via the Internet. Yet another reason why we consider a structural change of the Internet tobe of utmost importance.
+8) And we are told that we don’t have the power to change anything.
 
-13) We propose an evolutionary boost for the Internet which we want to achieve by sophisticated regulations and law amendments as well as publicly funded and facilitated structures. 
+9) DiEM25 disagrees. We are convinced that, while technology is essential, technological sovereignty through democratization of technology is an absolute necessity for democracy to be possible.
 
-14) The structures proposed on the following pages will also implement a reasonable business model to attract private investors without sacrificing the safety and data autonomy of the user/citizens.
+10) We know innovation can be beneficial to all. We want to end the practice of socializing the costs and privatizing the profits from technological change. We want to see an entrepreneurial startup ecosystem where all stakeholders are equally important, and society as a whole benefits from the liberated energy of entrepreneurs who are no longer shackled by the financialization of their efforts. We believe in a positive and strong partnership of the public and private sector in creating and sharing knowledge, creativity, research and development, and innovation, to the benefit of the whole of society.
 
+11) And we believe that Europe can become a beacon of hope if it unites political, social and technological progress. If it fosters a new enlightenment and puts the flourishing of all human beings in the centre of technological change. 
 
-### 2.1. Long-term goals
 
-#### 2.1.1. European Autonomous Data Network
+###	0.2 The relationship between people and technology
 
-15) The basic structure for our next level Internet will be the European Autonomous Data Network (EADN). By proposing this we identify the centralised structure of the Internet as a main issue for its current deformation. Contemporary cloud computer services are oligopolistic, unsecure and privately controlled structural nodes that are harvesting our data. At the same time this centralised server structure provides a ready-made framework for government surveillance. 
+12) Today people are increasingly defined as users or consumers of technology - even as the product itself - rather than citizens. Remember, when the service is free, you’re not the user, you’re the product. 
 
-16) TL;DR: We are not safe on company servers.
+13) But, as users, consumers or products, people are not empowered. They are not citizens who contribute and have a voice on how technology is shaped, who pays for it, and who benefits from it. They don’t get the real benefits of the knowledge, research and development funded by their tax money. They are effectively powerless against the monopolies of the platform technology giants.
 
-17) As a solution we propose a decentralised, anonymous, autonomous, encrypted peer-to-peer-network. Think of a gigantic network of personal computers, tablets and smartphones helping to organise, structure and maintain a serverless and decentralised network. This network creates itself automatically with the initial help of bootstrap servers provided by the European Union. The data is stored on hardware and uses bandwidth provided by users of the network. All data on this network is fragmented and encrypted to ensure its safety and integrity. No client party has a complete overview over the network and thus the bigger the network becomes, the more secure it will get. To incentivise users to provided hardware and bandwidth there will be the option to implement a micropayment system (e.g. using a blockchain secured virtual currency).
+14) DiEM25 wants technology to reflect the values and diversity of the society we aspire. Our different genders, ethnicities, capabilities, values and - most important - our dreams, shall be supported by technology. Technology has to be set up in such a way that it liberates and empowers each of us, to be who we can and want to be, and to fulfill the potential of each of us.
 
-18) To establish this European Autonomous Data Network we propose a European Save Networking Fund, set up by the EU that funds research on an open-source and easy-to-use solution implementing the specifications mentioned above. 
+15) That is only possible if we, as sovereign citizens, recapture the ability to make different choices, argue for different values and change the societal processes and powers that shape technologies. We can and must develop technological citizenship in the 21st century, based on principles such as the commons, the ability of self-organisation and the development of counter-power held by citizens.
 
-19) Furthermore we propose that the EU provides bootstrap servers and a minimum amount of storage capacity (storing encrypted data chunks) to get the network up and running.
+16) Technology has become a central form of power in society. This power ultimately has to belong to the sovereign citizens of a technologized society. 
 
-20) To ensure the competitiveness of such a system further legislation might be necessary, both to ensure proof of competence as well as to prevent big players from distorting the decentralized structure of the network.
+###	0.3	Technology in DiEM25’s Progressive Agenda for Europe
 
-21) The public sector itself should be required to use these systems and to use hardware and software that has been fully audited. 
+17) DiEM25 believes that, in a technologized world, Europe must occupy an important place of humane and responsible technological progress. Not in competition but in cooperation with others. 
 
-22) [Contributions [P6](https://github.com/kmccurdy/techdsc/wiki/P6-European-Autonomous-Data-Network), [P13](https://github.com/kmccurdy/techdsc/wiki/P13-Addition-to-proposal-Autonomous-Data-Network)]
+18) Europe must use its assets, such as its strong research and innovation landscape, its public traditions, the knowledge of its citizens and its NGOs, its humanistic culture, its diversity and its inventive capabilities. Europe must democratise technologies and innovation, put citizens before companies, sustainability before narrow profit and responsibility before technological feasibility. The alternative is to become overwhelmed by the undemocratic technologies and society models of, among others, Silicon Valley and China.
 
-#### 2.1.2. Platform independent and safe Social Media Infrastructure and Online Publishing
+19) These models favour the few and exploit the many and the living world. They benefit huge corporations who exploit publicly funded technologies, which they aim to optimise, with global reach, for their private profit. In these models the values of a minority shape the technological futures for the vast majority. They are models with contempt for democracy. 
 
-23) We believe that internet users have the right to express their opinion and to reach people who like their opinion and to get updates on their favourite celebrities' sex life without being subject to surveillance and targeted advertising. Also we believe that internet users have the right to build a sustainable network of online contacts without having to trust an internet oligopolist like google, twitter, facebook, instagram etc. on safeguarding their data. We need a system where it is safe for us to share whatever we want with our family and friends without the risk to unknowingly share it with third parties. [[P1](https://github.com/kmccurdy/techdsc/wiki/P1-Suggestion-for-a-European-Progressive-Media-Fund)]
+20) DiEM25’s Progressive Agenda for Europe demands a break with this model, and lays a claim to technological sovereignty. Our European Green New Deal demands green innovation and a common share in the benefits of technological progress. Our European constitutional process will create a new digital public sphere. Transparent government requires transparent technologies. A dignified future for labour demands responsible technologies and a collective share in the benefits of automation. An open society that welcomes refugees and migrants needs to welcome technologies that can take part in human development. An ecological transition has to stop and prevent harmful technologies and foster sustainable alternatives. Culture should be freely accessible, while cultural creation should be respected and rewarded.
 
-24) At present the opposite is the case: Information about personal characteristics and behaviors is linked, combined and utilised across companies, databases, platforms, devices, and services in real-time. Individuals are constantly surveyed and evaluated, categorised and grouped, rated and ranked, numbered and quantified, included or excluded, and, as a result, treated differently. While this is happening the individuals in question might not even know about it. [[P8](https://github.com/kmccurdy/techdsc/wiki/P8-Tech-Pillar-Suggestions-DSC-Lower-Austria)]
+21) Last but not least there is also a strong strategic case for Technological Sovereignty. It has recently been argued by avant-garde theorists like Nick Srnicek or Slavoj Žižek that no political movement will succeed without a strategy on how to deal with the changes that digitalisation has brought upon state, society and labour. The objective is to bring progressive movements up to speed to debates that already have been held in corporate think tanks for decades. According to Srnicek and Žižek „neither massive grass-roots protests nor well-organized political movements are enough. We also need a narrow striking force of dedicated “engineers” (…) Its task will be to “take over” the digital grid, to rip it off the hands of corporations and state agencies which now de facto control it.
 
-25) While there are alternatives in place for nearly every service provided byan internet oligopolist (e.g. Mastodon, Diaspora etc.) the platform effect makes it is next to impossible to gather a critical mass of users on any of those alternatives - and thus makes them inefficient as an alternative. 
+###	0.4	Three important ways to achieve Technological Sovereignty
 
-26) We think that as long as data v ending and targeted advertising is the main kind of revenue in the online realm any effective solution will always end up as a corrupted one. To prevent that and create the framework for the development of alternative social media and online content distribution systems we rely on two main principles:
+22) Within DiEM25, by crowdsourcing our collective wisdom, we have identified at least the following three key ways to achieve Technological Sovereignty. Each of the three ways uses two techniques: Regulation and Renewal. Regulation means that, as a society, we take a collective responsibility to shape how technological actors should act or not act. Renewal means that we need to innovate in the way technology and society interact.
 
-- strong and effective legislation
-- public funding for decentralised, encrypted and standardised solutions 
+23) The first way is the establishment, in Europe, of a Digital Commonwealth. This includes 
+- the strenghtening of regulations on Data Protection (GDPR) and ePrivacy to limit involuntary data extraction,
+- introducing the concept of mandatory Platform Interoperability, portability of data, Personal Data Storage and Data Commons
+- ensuring stronger EU antitrust laws and better enforcement
 
-25) To protect our data and to keep the internet a fun and safe place.
+24) Second, Europe must democratize innovation, and ensure that knowledge is shared in such a way as to benefit as many as possible.
 
-26) One of the technologies we consider as promising to reach the objective mentioned above is an online publish/subscribe tool (e.g. an API) that operates from the user's own computer or smartphone and is not depending on servers, is not exposing interests to other people than to the intended ones and is protecting the flow of information in transit. It would be mandatory for services like e.g. twitter and facebook to supply interfaces e.g. a uniform simple document upload format, so that user could safely access their user base without having to reveal more information than necessary. Nevertheless the final objective is a truly distributed and private social network. 
+… (two highlights)
 
-27) To allow content producers to be rewarded for their work (be itart, text, image, video, music, podcast, live stream or whatever might come up in the future) we propose a mandatory anonymous micropayment systemby which any content can be bought for a few cents. (See e.g. taler.net for an example) [P4](https://github.com/kmccurdy/techdsc/wiki/P4-Input-DSC-Vienna2) [P18](https://github.com/kmccurdy/techdsc/wiki/P18-Intellectual-Property-for-Contributors)
+Third, Europe must update its democracy and democratic processes by building new ways of public debate and decision making, based on the capabilities offered by new technologies.
 
-28) Another crucial aspect of safe online communication is Identity Management. People needto be able to connect their identity across platforms while remaining able to choose the extent of the data being shared and even revoke access to this data if necessary. We call this feature Public Digital Identity. The Public Digital Identity shall be anonymous, decentralised, decoupled from other essential services and protected against arbitrary state access. [P16](https://github.com/kmccurdy/techdsc/wiki/P16-Public-Digital-Identity)
+… (two highlights).
 
-29) Accompanying these measures there must be stricter regulation on advertising, especially political advertising and advertising closely connected to the exercise of some right. 
 
-30) Once those tools and accompanying legislation are implemented, targeted advertising and private surveillance will become impossible and unnecessary while an effective and fair revenue system will replace it.
 
 
-### 2.2. Mid-term measures
+The democratisation of technology is possible, and necessary. Technologies are never inevitable. They are always based on choices, values and societal processes and powers. We can make different choices, argue for different values and change the societal processes and powers that shape technologies. Technologies that, in return, shape society, and us.
 
-31) Social media platforms are an important tool of debate and opinion making within the democratic discourse, that is too important and too sensitive to leave it in the hands of privately owned companies that do not have any fiduciary duty other than to their shareholders.
 
-32) As it is highly unlikely that the specifications mentioned above will be able to be developed and flourish in the current internet and online platform ecosystem, we also envisage the European Save Networking Fund to facilitate a sovereign European Social Media Platform, based on our European ideas and values of privacy and security standards. This open source and open API based platform will provide a laboratory to design and introduce the server-independent autonomous data network, the online publish/subscribe tool, the anonymous micropayment systemand the public digital identity management. 
+EXECUTIVE SUMMARY 
 
-33) It will be a starting point to re-democratise online communication structures in order to deal with future digital challenges. The standards that will emerge from this platform will eventually become de jurestandard in the EU. We also see the European Social Media Platformas an opportunity to unbind small and mid-size companies and media outlets from their facebook dependency. [P19](https://github.com/kmccurdy/techdsc/wiki/P19--Reclaiming-Europe%E2%80%99s-digital-sovereignty-through-a-genuinely-democratic-social-media-platform)
 
-34) To ensure the necessary critical mass of users we propose to couple the European Social Media Platform with a general Public Media Platformthat is described in detail in DiEMs "Vision for Culture"-Pillar. The aim of this multilingual content platform - a European public "Netflix" if you will - is, to store content produced by European public stations and to deliver it to all European citizensand to the people across the globe. The contents will be (automatically) subtitled and/or voiced-over to enrich a pan-European public debate in all European languages. The access to this platform will be free or backed by a small subscription fee. [P7](https://github.com/kmccurdy/techdsc/wiki/P7-European-Public-Media-Platform)
 
-### 2.3. Short-term measures
 
-35) [P2](https://github.com/kmccurdy/techdsc/wiki/P2-Input-DSC-Vienna1) [P4](https://github.com/kmccurdy/techdsc/wiki/P4-Input-DSC-Vienna2) [P9](https://github.com/kmccurdy/techdsc/wiki/P9-Questionnaire-submitted-by-Diego-Naranjo-(DiEM25-Belgium,-NC-member-and-Anna-Mazgal)) [P11](https://github.com/kmccurdy/techdsc/wiki/P11-Principles-for-technology-policy-and-framing-the-politics-of-technology) As long as the measures outlined above are being developed and deployed we propose short-term measures to limit the damage that the current structure of the internet performs. Some of these short term measures have already been part of the original draft of the e-Privacy Regulation. The e-Privacy Regulation is meant to be the main framework to protect online communication and is currently being "watered down" by the European Council.
 
-36) DiEMers we need your help: We have to address cybersecurity and encryption and progressive policies addressing these. Send us your feedback and input!
 
-#### 2.3.1. Privacy by design / Privacy by default
 
-35) We are very concerned about the de facto standard of insecure communications via unencrypted emails and
-messenger apps. Unauthorised access to a computer system is a crime under EU legislation (Directive
-2013/40/EC). Following this logic we consider it unacceptable that unauthorised access to an individual's
-computer system could be permitted by default.
 
-36) We demand Privacy by design and Privacy by default as a mandatory standard for all hardware and software
-developed, sold and used in the EU.
 
-37) Privacy by design means that all stages of the creation of the hardware and software incorporates a high
-level of protection of the users' privacy. Privacy by default means that our devices and software are set to
-protect our data, with options to change this, if we wish.
 
-38) Thereby we explicitly include the necessity to provide an incentive to develop technical solutions where
-citizens can provide location data to so called location-based-services without any privacy risks. Technical
-solutions based on local computation in the end-user's device should always be preferred over centralised
-tracking.
+## Chapter 1 : Data as part of the Digital Commonwealth in the 21st century
 
-#### 2.3.2. Reasonable Regulation of User Consent
+###	1.1 What are the issues?
 
-39) Regarding User Consent we advocate a regulation that ensures that Software, Apps and Smart Devices are
-seeking for consent as user-friendly as possible and only for permissions that are crucial to perform their main
-task(s). Instead of being asked for general consent upon installation the user shall be asked to Opt-In for every
-task that the Software/App/Smart Device wishes to perform on their device. „All-or-Nothing" consent - e.g. a
-mandatory general consent for the Software/App/Smart Device to function - is most likely NOT in accordance
-with the GDPR.
+#) Digital technologies are at the heart of the ongoing technological transformation our societies are living through. Since the spread of Internet technologies from the 1990ies onwards, our lives have been enriched with a growing amount of digital technologies and devices, our ways of communication have been changing and our modes of coordination have been subject to vast transformations. 
 
-#### 2.3.3. Communication Data / Metadata Protection
+#) The digital transformation entails many positive aspects and opportunities to improve people’s lives. Our access to knowledge is growing, it is easier to communicate and connect with others, novel creative spaces have opened up. The digital economy has created many new products and services and connected the world more strongly. However, this transformation also has ambivalent and negative effects. The communication revolution creates overwhelming complexity, the spread of misinformation and collective nervousness. The digital economy is automating jobs and consolidating monopolistic structures. 
 
-40) Communication Data (email, voice mail, chat, videoconference, VoIP) is sensitive data and there shall be no
-„legitimate interest" exception to use this data without explicit user consent (see above). Metadata processed
-for security and QoS purposes should be anonymised as soon as possible and the storage of metadata should
-be limited to what is strictly necessary for the designated purpose.
+#) Many of these negative aspects, however, depend less on digital technologies as such, but rather more on the ways in which they are used and governed, i.e. the societal structures and contexts of these technologies. Neoliberal capitalism has created the surveillance capitalism and its platform monopolists that form technological empires with illegitimate power over the lives of billions of people. 
+The underlying economic structures, worldviews and cultures – which have gone global – use their user’s attention as the product to be sold to the highest bidders. The resulting data that is extracted and privatised is used to constantly improve the technologies of manipulation to change individual and collective behaviour. These systems sell our freedom to destroy it. For Silicon Valley people are not citizens with rights, virtue and dignity but consumers to be manipulated by marketing and data points to be tracked and sold as commodities. Vast digital infrastructures and datasets have been built and privatised in the hands of a tiny and largely unaccountable economic elite. These very datasets are then used to shape and train automated systems that are being offered back to us „as-a-service“. Work that formerly has been executed by both experts and low-skilled-workers is now done by users and prosumers who create valuable data that is constantly fed back into the system.
 
-#### 2.3.4. Tracking Regulation
+#) It is time for a new paradigm of the digital economy. A paradigm through which we establish new forms of ownership and governance of digital technologies, guided by democratic principles. A paradigm that unleashes the power of digital technologies for the common good and that helps to usher in an innovative, democratic, socially just and ecological transformation of our societies and economies. Moving towards such a digital commonwealth in which we will collectively benefit from the digital transformation will help us create a mixed and democratic economy. It will help us gain more democratic rights and to become free and sovereign in our technological choices, as individuals and societies. 
 
-41) To protect users against third party tracking, we demand that so-called cookie walls - notification windows
-that prevent access to a service if users do not agree to terms of service - should be prohibited. Also we
-embrace a prohibition of the common practice of excluding users that use ad-blocking or likewise protection
-software. We strongly demand this to be implemented asap to websites that offer public services, services that
-are financed by public funds or medical services.
+####	1.1.1 From Platform Monopolies to Platform Co-operatives
+	
+#) The term Digital Capitalism can’t be taken serious enough. Two-Sided Markets or the so called Platform Economy are disrupting the working environment to an extent that may easily be greater than the vast changes that the industrial revolution brought to society. 
+And we’ll have to deal with the changes that automatisation will unleash: Self-driving trucks - to mention an often-cited example - may have the potential to render the work of millions of truck drivers - and employees related to trucking activity - useless. Automated decision systems are already handling service tasks such as basic medical advices, online help desks and automated journalism. 
 
-#### 2.3.5. Providers Disclosure Regarding Law Enforcement
+#) The value of data is increasing. In 2016 the European Commission estimated that by 2020 the value of European citizens' personal data will reach €1 trillion in the European market alone. This represents 8 per cent of the total union GDP. Data can be turned into any number of artificial-intelligence/automated decision (AI/AD) or cognitive services, some of which will generate new sources of revenue. Data contributes to the excessive market dominance of a handful of companies. The use of personal data as a commodity has amplified in scale and complexity, leaving regulators struggling to catch up.
 
-42) Providers of electronic communication services should be obliged to publish all requests received by law
-enforcement agencies or comparable state agencies. This publication should include the number of requests
-received from law enforcement agencies, the legal justification invoked and the provider's response in a
-meaningful aggregated format. We consider this to be a matter of public interest and transparency towards
-public authorities.
+#) Dealing with these phenomena requires progressive economic policies (taxation, anti-trust measures, universal citizens dividend) as well as an elaborate analysis on how big data is exploited as a raw material to facilitate these changes.
 
-#### 2.3.7. Improve app-usability for elder citizens / ensure barrier-free access across devices
+####	1.1.2 The predominance of platform monopolies
 
-44) Regarding the fact that older citizens or people with constrains in sight, hearing or movability we see it as a
-requirement that all smartphone apps must also be usable from any computer. Such implementations would
-need to be reasonably easy-to-use and secure (fulfilling the requirements mentioned above).
+#) The market dominance of a handful of platform cooperations relies on two core principles - the network effect and the lock-in effect. 
+The network effect is quite simple: the more people use a certain platform the more valuable it becomes for everyone. The lock-in effect is also well known to people using e.g. social network platforms: the more you integrate the service in your daily life the more dependent you become on the service.
 
-#### 2.3.8. Security flaws in private/public software systems
+#) One of the key concepts to achieve this huge market dominance is the extraction of big data from the growing user base. The data is being analysed, processed, re-packaged and sold. It is being used to train algorithms and to create a huge information asymmetry that reinforces the effects mentioned above. With every click and every interaction users are adding more raw material into the mix. Every person who uses digital services is creating a valuable economic and social resource in the form of personal data.
+Network and Lock-In effects and their prescursors need to be moderated to enable a more and fair competition.
 
-45) We demand to stop the common practice of state agencies to obtain, collect, create and store so called zeroday exploits (knowledge about flaws in security of products that are not known to the public or the vendor of
-the product and thus cannot be fixed by the vendor). We furthermore propose to publicly fund security
-research and create incentives for individuals that help find and/or fix software vulnerabilities. We are also
-concerned about the use of proprietary code in software used by public institutions. We propose to publish the
-source code to embrace the principle of full disclosure.
 
-## 3. Democratising algorithms and data
+###	1.2 Proposed solutions
+
+####	1.2.1 Short-Term Measures : Strengthen Data Protection and ePrivacy Regulation
+
+#) The basic step to tackle the predominace of platform monopolists is to regulate the use of involuntary extracted data, the strengthening of user rights and the creation and empowerment of Data Protection Authorities to enforce these rights. The General Data Purpose Regulation (GDPR) and the upcoming ePrivacy Regulation are steps into the right direction but certainly not enough.
+The e-Privacy Regulation is supposed to protect confidentiality of communications and personal data (such as location data, browsing data, device usage patterns, mobile app use, search queries etc.) in the electronic communication sector by complementing matters covered in a general way by the General Data Protection Regulation (GDPR). The e-Privacy Regulation is meant to be the main framework to protect online communication and is currently being "watered down" by the European Council. The current text will need thorough work to ensure that the privacy, data protection and other fundamental rights in the EU are fully respected.
+
+#) In practice it is of utmost importance to maintain and strengthen the following data protection / regulation measures:
+
+#) 	- Higher level of Privacy Protection By Design and By Default instead of „Privacy By Option“. This explicitly includes the obligation for hardware and software providers to implement default settings that protect end users’ devices against any unauthorised access to or storage of information on their devices. (See forthcoming Specs Paper for Details)
+
+#) 	- Strong requirements for user consent. The request for user consent should be as user-friendly as possible and only for permissions that are crucial to perform the main task(s) of a software/app/smart device. Instead of being asked for general consent upon installation the user shall be asked to Opt-In for every task that the software/app/smart device wishes to perform on their device. Forced consent mechanisms and „All-Or-Nothing“-Consent (like e.g. Cookie Walls) shall be prohibited.
+
+#) 	- No „legitimate interest“ exception to use communication data (email, voice mail, chat, videoconference, VoIP) without explicit user consent.
+
+#) 	- Protect users against third party tracking.
+
+#) 	- All Types of Location Data should be given a high level of protection as they carry a high privacy risk. Technical solutions based on local computation in the end-user’s device should always be preferred over centralised tracking.
+
+#) 	- Metadata processed for security and Quality of Service (QoS) purposes shall be anonymised as soon as possible and the storage of metadata shall be limited to what is strictly necessary for the purpose. 
+
+#) 	- Introduce a provision for collective redress / class action to enforce data subjects rights.
+
+#) 	- Data Protection Authorities will be in charge of monitoring the application of the proposed regulations.
+
+#) The designated goal here is to create an environment in which potential costs of non-compliance with EU regulations start to outweigh the monetisation value of the involuntary extracted data itself. In such an environment companies would focus more on how they can use people’s data only when required, rather than hoarding and monopolising it in the hope of future use.
+
+###	1.2.2 Mid-term Measures: 
+
+#) Enforce Platform Interoperability
+
+#) A huge amount of data is extracted on social media platforms that exploit the lock-in effect to obtain an „all-or-nothing“-consent from their users. To re-open the monopolised social network ecosystem for competition we demand to legally enforceable cross-platform-interoperability for communication across different platforms. The task here is to level the playing field for competition. As long at is more efficient to make user surrender their data and give them very limited control over it, the strong market concentration will always led to a handful of digital platforms being able to gather, aggregate and analyse large amount of data.
+Mandatory Cross-Platform-Interoperability can be e.g. achieved by standard basic services with end-to-end-encryption where different services may attach to. (See forthcoming Specs Paper for a list of minimum requirements for interoperability)
+
+#) We largely embrace the concept of „social media as a public utility“. This includes a large public funding for the development of open and decentralised alternatives that embrace
+- Interoperability
+- Data Portability as described in Article 20 of the GDPR (the right to convert and transfer user data/media to a secure location or to import it to another service)
+- Mandatory anonymised, authenticated and end-to-end encrypted digital communication 
+- privacy-preserving identity authentication tools
+Again: Cross-platform-interoperability needs to be a legal requirement to enable fair competition.
+
+#) Enforcement of Regulation. 
+
+#) To ensure a strong and effective enforcement of data protection, privacy regulation and consumer protection we demand more personnel for National Data Protection Authorities and the creation of a European Data Protection Authority.
+
+#) Stronger Antitrust/Cartel Laws
+
+#) To enable fair competition in the realm of Platform Capitalism and the Digital Single Market we need stronger EU Competition Laws. Regulative bodies like antitrust divisions and cartel authorities shall ask for strong data protection compliance upon corporate mergers. Also they are in need of additional criteria to evaluate the abuse/violation of market power such as 
+- network effects and lock-in effects
+- access to data relevant for competition
+An effective valuation of market power has to keep the whole economic ecosystem in check. 
+
+#) Key regulative measures of these agencies would be to 
+- Uncouple corporations that are too large
+- Share (anonymised) datasets of big player with public entities - to create public/municipal data commons.
+- Collect fines to fund/facilitate alternative developments
+- Collect fines to strengthen Data Protection Authorities
+- Use fines to fuel a Universal Basic Dividend 
+
+#) (Digital) Taxation 
+
+#) To further limit the negative impact of platform corporations and automatisation it is necessary to close the tax gap. We have to fight the tax evasion of platform companies and create a digital tax on the collection/processing of personal data. 
+
+###	1.2.3 Long-Term Measures:
+
+#) Alternative Business Models: Levelling the playing field for platform co-operatives
+
+#) Effective taxation and regulation will pave the way for the development of platform co-operatives - models of economic exchange which have social and ethical objectives. Platform co-operatives offer a feasible model to encourage the sharing of data, embedding co-ownership, transparency and democratic participation over how data is managed and used. Models could include the sharing of accommodation, transport or the exchange of labour and self-generated energy. 
+
+#) A way for platform co-operative to compete with the vast datasets of huge corporations is to participate in publicly available data commons. 
+
+#) Alternative Digital Infrastructure: Towards Personal Data Storages and Data Commons
+
+#) The value of data relies on their aggregation. Data becomes more valuable when they are shared. Data, as a common good, can become more helpful for co-operation and collective use than it would be as a private commodity with very little value when isolated. Data Commons are a way to aggregate citizens data in a safe, anonymised, transparent and democratically controlled way. Data Commons includes a combination of personal data, city open data, public research data and private data (e.g. obtained through enhanced antitrust measures proposed above).
+
+#) The main challenge for data commons is to create a legal & economic framework in which people want to share their data - and its potential economic value - in a controlled way for the common good. This needs to be backed up by technological solutions that enable the enforcement of rules for data sharing and prevent the misuse of data. 
+
+#) The long-term vision here is the concept of shared personal data as a common resource for innovation. Users would host their private data on a Personal Data Storage - a secure location of their choice - and have full control on how to share data and interact with online services.  A Personal Data Storage may be - for instance - a decentralised, anonymous and encrypted peer-to-peer-network that takes user data and splits it up into encrypted chunks, which get processed by hundreds of other computers across the network. (See forthcoming specs paper for different approaches). The crucial task here is that no raw data is being revealed to third parties. 
+
+#) Users could then choose amongst a vast variety of high-level as well as granular data sharing presets (Smart Rules). Smart Rules will enable users to express certain conditions under which their data may or may not be used - e.g. an event/issue related use of data (e.g. Health Condition Data is only revealed in case of emergency) or licensed based sharing of data for public benefits (only the city / a platform co-operative may use anonymised datasets). There are already promising approaches on how to perform safe queries on such a Personal Data Storage without revealing data but rather to perform code in a safe environment and returning the desired information. (see forthcoming specs paper for more information)
+
+#) Public Funding will be key for the development of new technological solutions and appropriate licensing models but regulation shall pave the way for private capital to flow in that direction as well. 
+
+#) Initially such technical options may only be used by a small group of educated people - who care about privacy and a more social digital economy - but once the technology becomes more user-friendly their usage will increase. Regulations - as outlined above - will make personal data hoarding far more expensive than the creation and development of new privacy compliant technology. 
+
+
+
+
+
+
+
+
+
+
+## 2. Democratising algorithms and data
 
 50) The 21st century has seen an accelerating expansion of information technology in more and more domains
 of everyday life, with citizens positioned both as sources of the data collected to accumulate privately-held
@@ -337,7 +402,7 @@ Artificial Intelligence and labor with the following mandate:
 	- It shall assess outcomes with particular attention to humanistic goals, quality of life, and workercentered perspectives, emphasizing the dignity and autonomy of workers.
 	- It shall require particular attention to barriers faced by marginalized workers and workers from traditionally excluded backgrounds.
 
-## 4. Free knowledge for democratic innovation - the role of Intellectual Property and education
+## Chapter 4. Free knowledge for democratic innovation - the role of Intellectual Property and education
 
 ### 4.1. What are the issues?
 
